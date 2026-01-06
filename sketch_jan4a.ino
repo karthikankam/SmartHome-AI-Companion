@@ -6,12 +6,12 @@
  
 // ========== CONFIGURATION ==========
 // WiFi Credentials
-const char* ssid = "Ankam";
-const char* password = "9866217694";
+const char* ssid = "name_of_your_wifi";
+const char* password = "wifi_password";
 
 // Groq API Configuration
-const char* apiKey = "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";
-const char* apiEndpoint = "https://api.groq.com/openai/v1/chat/completions";
+const char* apiKey = "your_api_key";
+const char* apiEndpoint = "api_endpoint";
 
 // Pin Definitions
 #define DHTPIN D4
